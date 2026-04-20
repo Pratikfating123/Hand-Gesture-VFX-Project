@@ -88,13 +88,19 @@ python main.py
 🧩 Requirements
 
 opencv-python
+
 mediapipe
+
 pygame
+
 numpy
 
 🚀 Future Improvements
 
 More gesture controls
+
 Multiple visual effects
+
 GUI interface
+
 AR integration
