@@ -5,6 +5,10 @@ A real-time computer vision project that uses hand gesture recognition to create
 ---
 
 ## 🔥 Demo
+<img width="798" height="576" alt="image" src="https://github.com/user-attachments/assets/58ed2e5d-0dc5-4c1a-93f8-75bcae74ccdf" />
+
+<img width="794" height="589" alt="Screenshot 2026-04-20 153702" src="https://github.com/user-attachments/assets/cfaeb05d-3f91-4d6e-af70-f639e591b9e2" />
+
 
 
 ---
